@@ -101,10 +101,4 @@ extern volatile uint32_t global_timer;
 #define ALLOC_SIZE 1024 // Arduino
 #define STACK_SIZE 64
 
-/* IP address */
-#define IP_ADDR_0 192
-#define IP_ADDR_1 168
-#define IP_ADDR_2 1
-#define IP_ADDR_3 8
-
 #endif /* __TARGET_H__ */
